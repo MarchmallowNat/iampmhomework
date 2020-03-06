@@ -1,2 +1,2 @@
-# iampmhomework
+# TechmindHomework
 repo for homework
