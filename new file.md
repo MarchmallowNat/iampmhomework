@@ -1,0 +1,2 @@
+# TechmindHomework
+repo for homework
